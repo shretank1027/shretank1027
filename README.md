@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shretank1027
-- 👀 I’m interested in web development and coptetive programming
+- 👀 I’m interested in web development and comptetive coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
